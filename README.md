@@ -1,6 +1,6 @@
-#Project-Name
-   MYPORTFOLIO
-
+# Project-Name
+  MYPORTFOLIO
+  
   This is week one independent project.Covers custom styling and indentation
 
 # Technologies Used
