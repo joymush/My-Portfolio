@@ -1,0 +1,26 @@
+.img-resize {
+    width: 600px;
+    height: auto;
+}
+h1 {
+    color: blue;
+    font-size: 100px;
+}
+.header{
+    background-color: crimson;
+    font-size: 200px;
+}
+h2 {
+    color: forestgreen;
+    font-size: 50px;
+}
+h7 {
+    color: grey;
+    font-size: 30px;
+}
+.name-heading {
+    font-size: 60px;
+    background-color: tomato;
+    text-decoration: underline;
+    text-transform:  capitalize;
+}
